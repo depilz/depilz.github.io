@@ -1,5 +1,5 @@
-title:            Blog Title
-description:      Describe your website here.
+title:            Mi blog
+description:      Desarrollador web/móvil
 # put your disqus here
 disqus_shortname: 
 reading_time:     true # if true, shows the estimated reading time for a post
@@ -8,7 +8,7 @@ logo:             images/logo.png # logo visible in the topbar
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
 
-url: http://aronbordin.com/neo-hpstr-jekyll-theme
+url: http://github.com/depilz
 
 # draw your top menu here
 # each item must have a title and a url.
@@ -18,10 +18,6 @@ url: http://aronbordin.com/neo-hpstr-jekyll-theme
 menu:
   - title: 'Home'
     url: '/'
-  - title: 'Fork'
-    url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme'
-  - title: 'Install'
-    url: '/theme-setup/'
   - title: 'Tags'
     url: '/tags'
   - title: 'Categories'
