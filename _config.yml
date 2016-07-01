@@ -61,7 +61,7 @@ social:
 background:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics: 'My programming blog'
+google_analytics: "My programming blog"
 google_verify: UA-80166790-2
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
