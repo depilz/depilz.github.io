@@ -19,6 +19,7 @@ body {
 	background-color: $header-color;
 }
 .entry-content {
+	text-align: justify;
 	@include font-size(16);
 	// Dotted line underlines for links
 	p > a,
@@ -275,12 +276,16 @@ header .entry-meta {
 	-webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 	-moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 }
+.author-share{
+
+}
 .author-container{
 	display: flex;
 }
 .author-bio{
-	padding-top: 30px;
-	padding-left: 20px;
+	text-align: justify;
+	padding-top: 0px;
+	padding-left: 40px;
 	flex-grow: 1;
 }
 ul.social-buttons li a {
