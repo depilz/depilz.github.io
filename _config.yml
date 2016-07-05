@@ -36,9 +36,14 @@ menu:
 # Owner/author information
 owner:
   name:           Denis Claros Pilz
-  site:           #https://depilz.github.io/
+  site:           '/about/index'
   avatar:         images/avatar.jpg
-  bio:            ""
+  bio:            "¡Hola! Qué tal, soy Denis.<br><br>
+
+  Si te gustó este post sientete libre de compartirlo!. Si quieres entender un poco mejor acerca de lo que se habla en este sitio, dirígete a la pagina de inicio.<br><br>
+
+  Si quieres conocerme mejor, toca el botón \"Acerca del autor\" o mándame un mensaje a cualquiera de mis redes sociales o correo electrónico."
+
   email:          clarospilzdw@gmail.com
   # Twitter nick for use in Twitter cards and follow button.
   twitter: # if no twitter in this config, the twitter follow button will be removed
@@ -53,6 +58,8 @@ twitter:
 social:
   - title: "github"
     url: "https://github.com/depilz"
+  - title: "facebook"
+    url: "https://www.facebook.com/denis.claros"
 #  - title: "linkedin"
 #    url: "https://br.linkedin.com/in/aronbordin"
 #  - title: "youtube"

@@ -4,35 +4,12 @@ title: About
 share: true
 ---
 
-# Neo-HPSTR Jekyll Theme
+¡Hola! Qué tal, soy Denis. <br><br>
 
-Neo-HPSTR Jekyll is a responsive and modern blog template.
+Soy un apasionado por la tecnología, en especial cuando se trata de crear Apps y juegos! <br><br>
 
-# Live Demo
+Una de las principales razones por la decidí estudiar informática es porque esta es la mejor forma de juntar todas mis otras pasiones creando cosas únicas y poderlas compartir  con el mundo.<br><br>
 
-You can see it running [here](http://blog.rhesoft.com/) and [here](http://aronbordin.com/neo-hpstr-jekyll-theme/).
+Lo que busco en mis trabajos no es solo realizarlos de forma que sean sencillos para entenderlos y usarlos, sino que donde más me enfoco es en darle una esencia propia.<br><br>
 
-
-## What Neo-HPSTR brings to the table:
-
-* Modern design.
-* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrades in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Sweet topbar animated menu with support for drop-downs.
-* Optional [Disqus](http://disqus.com) comments and social sharing links.
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* Simple [custom 404 page](http://mmistakes.github.io/hpstr-jekyll-theme/404.html) to get you started.
-* Stylesheets for Pygments and Coderay [syntax highlighting](http://mmistakes.github.io/hpstr-jekyll-theme/code-highlighting-post/) to make your code examples look snazzy
-* Author panel, with social links
-* Read more tag support(similar with Wordpress ).
-
-![Preview](http://aronbordin.com/images/neo-hpstr-jekyll-theme-preview.png)
-
-
----
-
-## Getting Started
-
-Neo-HPSTR takes advantage of Sass and data files to make customizing easier. These features require Jekyll 2.x and will not work with older versions of Jekyll.
-
-To learn how to install and use this theme check out the [Setup Guid](http://aronbordin.com/neo-hpstr-jekyll-theme//theme-setup/) for more information.
+Por el momento estoy muy interesado en mi trabajo como Freelancer, pero tengo siempre en mente que a futuro me dedicaré a proyectos propios.
